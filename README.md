@@ -1,7 +1,7 @@
 # Exercise 5
 
 ## Created by: 
--Arabella
+- Arabella
 
 ## Description:
 - Vertical Bar
